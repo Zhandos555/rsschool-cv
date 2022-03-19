@@ -32,3 +32,13 @@ function highAndLow(numbers) {
   return `${Math.max.apply(null, numbers)} ${Math.min.apply(null, numbers)}`;
 }
 ```
+
+# Job experience
+
+# KIMEP
+
+**Degree:** BA (Business Administration)
+
+# English level
+
+My English level is B2 according to the test from EPAM training center online
