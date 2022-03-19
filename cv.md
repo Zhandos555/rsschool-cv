@@ -22,3 +22,13 @@ to become a frontend web developer.
 # Technical stack
 
 **HTML, CSS, Bootstrap, JavaScript - basic level**
+
+# Code Sample from Codewars
+
+```
+function highAndLow(numbers) {
+  numbers = numbers.split(' ');
+  console.log(numbers);
+  return `${Math.max.apply(null, numbers)} ${Math.min.apply(null, numbers)}`;
+}
+```
