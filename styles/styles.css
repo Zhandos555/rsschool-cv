@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+body {
+  background-color: rgb(204, 204, 255);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sm-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-brand:hover {
+  background-color: aqua;
+}
