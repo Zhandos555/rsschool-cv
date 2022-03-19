@@ -21,4 +21,4 @@ to become a frontend web developer.
 
 # Technical stack
 
-HTML, CSS, Bootstrap, JavaScript - basic level
+**HTML, CSS, Bootstrap, JavaScript - basic level**
