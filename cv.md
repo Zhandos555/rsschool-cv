@@ -18,3 +18,7 @@ freecodecamp frontend related courses, and did some
 courses on Udemy. Currently I'm enrolled to online from
 Rolling Scopes. Currently learning all the things required
 to become a frontend web developer.
+
+# Technical stack
+
+HTML, CSS, Bootstrap, JavaScript - basic level
