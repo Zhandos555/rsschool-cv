@@ -4,8 +4,9 @@ body {
   width: 95%;
 }
 .me {
-  width: 300px;
+  width: 310px;
   height: 400px;
+  margin-top: 15px;
 }
 header {
   display: flex;
@@ -38,32 +39,47 @@ main {
   width: 50%;
 }
 .left-part_contacts {
-    list-style: square;
+  list-style: square;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.about-me_text {
+    width: 90%;
 }
 .right-part {
   width: 50%;
 }
 .hard-skills {
-    list-style: none;
-    display: grid;
-    grid-template-columns: 2fr 2fr 2fr;
-    gap: 10px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  gap: 10px;
+}
+.hard-skills_logo1 {
+  width: 95px;
+  height: 75px;
+}
+.hard-skills_logo2 {
+  width: 70px;
+  height: 75px;
 }
 .hard-skills_logo {
-    width: 100px;
-    height: 75px;
+  width: 100px;
+  height: 75px;
 }
 footer {
-    width: 80%;
-    margin: 0 auto;
+  width: 80%;
+  margin: 0 auto;
 }
 .footer-list {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
 }
 .footer-list_logo {
-    width: 55px;
-    height: 55px;
+  width: 65px;
+  height: 65px;
 }
