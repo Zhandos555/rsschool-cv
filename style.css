@@ -46,7 +46,8 @@ a {
   color: black;
 }
 .about-me_text {
-    width: 90%;
+    width: 85%;
+    font-size: 20px;
 }
 .right-part {
   width: 50%;
