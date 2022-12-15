@@ -33,7 +33,7 @@ function findMultiples(int,limit){
 ```
 
 ### Work experience:<br>
-#### Ecommerce-clothing-app. [This is the github link to this project](https://hexlet.io). I made simple ecommerce app using React, Sass, Redux. This the course from Udemy ZTM.
+#### Ecommerce-clothing-app. [This is the github link to this project](https://hexlet.io). I made simple ecommerce app using React, Sass, Redux. This is the course from Udemy ZTM.
 
 ### Education:<br>
 * KIMEP - Bussiness Administration 2013
@@ -42,4 +42,4 @@ function findMultiples(int,limit){
 * Udemy courses - 2022-2023
 
 ### English Level:<br>
-##### My English level according to Epam test is B2.
+##### My English level according to EPAM test is B2.
