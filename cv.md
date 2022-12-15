@@ -5,6 +5,16 @@
 * Tel: +7 771 694 74 48<br>
 
 ### About myself:<br>
-* Hello I'm Zhandos from Almaty, Kazakhstan. I'm 32 years old. On december 2022 started to interest in IT. I've got 7 * years of experience in retail, category management, whole sales. In terms of IT I don't have any experience. I finished freecodecamp courses related to HTML, CSS, JavaScript. Currently trying to deepen my knowledge by studying in RS School Stage0.
+*Hello I'm Zhandos from Almaty, Kazakhstan. I'm 32 years old. On december 2022 started to interest in IT. I've got 7 years of experience in retail, category management, whole sales. In terms of IT I don't have any experience. I finished freecodecamp courses related to HTML, CSS, JavaScript. Also I finished some courses on Udemy from great instructors like Maximilian Schwarzmüller, Zero to Mastery Academy and Colt Steele. Currently trying to deepen my knowledge by studying in RS School Stage0.*
 
-### Code example:
+### Code example:<br>
+```javascript
+function findMultiples(int,limit){
+  let result = []
+  
+  for (let i = int; i<=limit ; i+=int)
+    result.push(i)
+    
+  return result
+};
+```
