@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 body {
   margin: 0 auto;
   padding: 0;
   width: 94%;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .me {
   width: 310px;
@@ -46,8 +48,8 @@ a {
   color: black;
 }
 .about-me_text {
-    width: 85%;
-    font-size: 20px;
+  width: 85%;
+  font-size: 20px;
 }
 .right-part {
   width: 50%;
