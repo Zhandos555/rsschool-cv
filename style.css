@@ -1,50 +1,41 @@
 body {
-    margin: 0 auto;
-    padding: 0;
-    width: 95%;
+  margin: 0 auto;
+  padding: 0;
+  width: 95%;
 }
-
 .me {
-    width: 300px;
-    height: 400px 
+  width: 300px;
+  height: 400px;
 }
-
 header {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 75px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 75px;
 }
-
 img {
-    width: 100px;
-    height: 100px;
+  width: 100px;
+  height: 100px;
 }
-
 .me_block {
-    width: 100%;
+  width: 100%;
 }
-
 h1 {
-    font-size: 80px;
-    margin: 0;
-    margin-top: 50px;
-    text-align: center;
+  font-size: 80px;
+  margin: 0;
+  margin-top: 50px;
+  text-align: center;
 }
-
 .me_profession {
-    font-size: 40px;
-    text-align: center;
+  font-size: 40px;
+  text-align: center;
 }
-
 main {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
-
 .left-part {
-    width: 50%;
+  width: 50%;
 }
-
 .right-part {
-    width: 50%;
+  width: 50%;
 }
