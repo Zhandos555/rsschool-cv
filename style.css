@@ -32,10 +32,38 @@ h1 {
 main {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 100px;
 }
 .left-part {
   width: 50%;
 }
+.left-part_contacts {
+    list-style: square;
+}
 .right-part {
   width: 50%;
+}
+.hard-skills {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    gap: 10px;
+}
+.hard-skills_logo {
+    width: 100px;
+    height: 75px;
+}
+footer {
+    width: 80%;
+    margin: 0 auto;
+}
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.footer-list_logo {
+    width: 55px;
+    height: 55px;
 }
